@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>html form</h2>
+
+<p>Tạo ra list để chọn</p>
+
+<form action="/action_page.php">
+  <label for="">Chọn 1 phần quà:</label>
+  <select id="" name="">
+    <option value="volvo">son</option>
+    <option value="saab">nước hoa</option>
+    <option value="fiat">đồ ăn</option>
+    <option value="audi">trang sức</option>
+    <option value="audi">điện thoại</option>
+    <option value="audi">quần áo</option>
+  </select>
+  <input type="submit">
+</form>
+
+</body>
+</html>
