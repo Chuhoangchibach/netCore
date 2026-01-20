@@ -1,0 +1,15 @@
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\bin\Debug\net9.0\NewApp.exe
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\bin\Debug\net9.0\NewApp.deps.json
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\bin\Debug\net9.0\NewApp.runtimeconfig.json
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\bin\Debug\net9.0\NewApp.dll
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\bin\Debug\net9.0\NewApp.pdb
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\obj\Debug\net9.0\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\obj\Debug\net9.0\NewApp.AssemblyInfoInputs.cache
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\obj\Debug\net9.0\NewApp.AssemblyInfo.cs
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\obj\Debug\net9.0\NewApp.csproj.CoreCompileInputs.cache
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\obj\Debug\net9.0\NewApp.sourcelink.json
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\obj\Debug\net9.0\NewApp.dll
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\obj\Debug\net9.0\refint\NewApp.dll
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\obj\Debug\net9.0\NewApp.pdb
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\obj\Debug\net9.0\NewApp.genruntimeconfig.cache
+C:\Users\chuhoangchibach\OneDrive\Documents\Thư mục mới\netCore\NewApp\obj\Debug\net9.0\ref\NewApp.dll
